@@ -1,0 +1,334 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "ApiTvShows Seguridad OAuth",
+    "description": "ApiTvShows con seguridad OAuth Token",
+    "version": "v1"
+  },
+  "paths": {
+    "/Auth/Login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/LoginModel"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Personajes": {
+      "get": {
+        "tags": [
+          "Personajes"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Personaje"
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Personajes"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Personaje"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Personaje"
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Personajes"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Personaje"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Personaje"
+            }
+          }
+        }
+      }
+    },
+    "/api/Personajes/{id}": {
+      "get": {
+        "tags": [
+          "Personajes"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Personaje"
+            }
+          }
+        }
+      }
+    },
+    "/api/Personajes/BySerie/{idserie}": {
+      "get": {
+        "tags": [
+          "Personajes"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "idserie",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Personaje"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Series": {
+      "get": {
+        "tags": [
+          "Series"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Serie"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Series/{id}": {
+      "get": {
+        "tags": [
+          "Series"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Serie"
+            }
+          }
+        }
+      }
+    },
+    "/api/Usuarios/PerfilUsuario": {
+      "get": {
+        "tags": [
+          "Usuarios"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Usuario"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "LoginModel": {
+      "type": "object",
+      "properties": {
+        "userName": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      }
+    },
+    "Personaje": {
+      "type": "object",
+      "properties": {
+        "idPersonaje": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "nombre": {
+          "type": "string"
+        },
+        "imagen": {
+          "type": "string"
+        },
+        "idSerie": {
+          "format": "int32",
+          "type": "integer"
+        }
+      }
+    },
+    "Serie": {
+      "type": "object",
+      "properties": {
+        "idSerie": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "titulo": {
+          "type": "string"
+        },
+        "imagen": {
+          "type": "string"
+        },
+        "puntuacion": {
+          "format": "float",
+          "type": "number"
+        },
+        "year": {
+          "format": "int32",
+          "type": "integer"
+        }
+      }
+    },
+    "Usuario": {
+      "type": "object",
+      "properties": {
+        "idUsuario": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "nombre": {
+          "type": "string"
+        },
+        "apellidos": {
+          "type": "string"
+        },
+        "email": {
+          "format": "email",
+          "type": "string"
+        },
+        "password": {
+          "format": "password",
+          "type": "string"
+        }
+      }
+    }
+  }
+}

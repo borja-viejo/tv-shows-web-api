@@ -1,0 +1,303 @@
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.exe
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.deps.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.dev.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.AssemblyReference.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfoInputs.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfo.cs
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CoreCompileInputs.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\scopedcss\bundle\ApiSeriesCoreOAuth.styles.css
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\staticwebassets\ApiSeriesCoreOAuth.StaticWebAssets.Manifest.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.RazorTargetAssemblyInfo.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CopyComplete
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\refint\ApiSeriesCoreOAuth.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.genruntimeconfig.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ref\ApiSeriesCoreOAuth.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.Development.json
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.json
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.exe
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.deps.json
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.json
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.dev.json
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.AssemblyReference.cache
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.GeneratedMSBuildEditorConfig.editorconfig
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfoInputs.cache
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfo.cs
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CoreCompileInputs.cache
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cs
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cache
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\scopedcss\bundle\ApiSeriesCoreOAuth.styles.css
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\staticwebassets\ApiSeriesCoreOAuth.StaticWebAssets.Manifest.cache
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.RazorTargetAssemblyInfo.cache
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CopyComplete
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\refint\ApiSeriesCoreOAuth.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.genruntimeconfig.cache
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ref\ApiSeriesCoreOAuth.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Humanizer.dll
+F:\15-Curso Azure\Practica_Azure\ApiSeriesCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.exe
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.deps.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.dev.json
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Humanizer.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.AssemblyReference.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfoInputs.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfo.cs
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CoreCompileInputs.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\scopedcss\bundle\ApiSeriesCoreOAuth.styles.css
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\staticwebassets\ApiSeriesCoreOAuth.StaticWebAssets.Manifest.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.RazorTargetAssemblyInfo.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CopyComplete
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\refint\ApiSeriesCoreOAuth.dll
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.genruntimeconfig.cache
+C:\_DEV-Tarde_ProyectosBorja\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ref\ApiSeriesCoreOAuth.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.json
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.exe
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.deps.json
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.json
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.dev.json
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Humanizer.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.AssemblyReference.cache
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfoInputs.cache
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfo.cs
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CoreCompileInputs.cache
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\scopedcss\bundle\ApiSeriesCoreOAuth.styles.css
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\staticwebassets\ApiSeriesCoreOAuth.StaticWebAssets.Manifest.cache
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.RazorTargetAssemblyInfo.cache
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CopyComplete
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\refint\ApiSeriesCoreOAuth.dll
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.genruntimeconfig.cache
+D:\15-Curso Azure\Practica_Azure\ApiTvShowsCoreOAuth\ApiSeriesCoreOAuth\obj\Debug\net5.0\ref\ApiSeriesCoreOAuth.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\appsettings.json
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.exe
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.deps.json
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.json
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.runtimeconfig.dev.json
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Humanizer.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.AssemblyReference.cache
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfoInputs.cache
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.AssemblyInfo.cs
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CoreCompileInputs.cache
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\scopedcss\bundle\ApiSeriesCoreOAuth.styles.css
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\staticwebassets\ApiSeriesCoreOAuth.StaticWebAssets.Manifest.cache
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.RazorTargetAssemblyInfo.cache
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.csproj.CopyComplete
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\refint\ApiSeriesCoreOAuth.dll
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.pdb
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ApiSeriesCoreOAuth.genruntimeconfig.cache
+D:\APIs\ApiTvShows\ApiSeriesCoreOAuth\obj\Debug\net5.0\ref\ApiSeriesCoreOAuth.dll
